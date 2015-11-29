@@ -1,6 +1,6 @@
 var PlatformerGame = PlatformerGame || {};
 
-PlatformerGame.game = new Phaser.Game(1260, 800, Phaser.AUTO, '');
+PlatformerGame.game = new Phaser.Game(1260, 800, Phaser.AUTO, 'container');
 //, '', { preload: preload, create: create, update: update });
 
 PlatformerGame.game.state.add('Boot', PlatformerGame.Boot);

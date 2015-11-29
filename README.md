@@ -1,3 +1,3 @@
-# phaser-platformer-boilerplate
+# 1hgj32
 
-Making a platformer? Start with this!
+"Escape the tower". Game made for the 32nd onehourgamejam.com
